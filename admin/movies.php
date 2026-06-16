@@ -37,7 +37,7 @@ $movies = mysqli_query($conn, "SELECT * FROM movies ORDER BY id DESC");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manage Movies</title>
-    <link rel="stylesheet" href="/TRY/assets/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 

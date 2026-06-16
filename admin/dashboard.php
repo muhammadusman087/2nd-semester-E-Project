@@ -13,7 +13,8 @@ $userCount = mysqli_fetch_assoc(mysqli_query($conn, "SELECT COUNT(*) AS total FR
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Dashboard</title>
-    <link rel="stylesheet" href="/TRY/assets/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
+    <!-- <link rel="stylesheet" href="/try/assets/style.css"> -->
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>

@@ -10,7 +10,7 @@ $users = mysqli_query($conn, "SELECT * FROM users ORDER BY id DESC");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Users</title>
-    <link rel="stylesheet" href="/TRY/assets/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 
